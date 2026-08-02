@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-b3kbcb.ridlerlandscapes.co.nz/sitemap.xml
